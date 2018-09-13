@@ -1,0 +1,21 @@
+export const FETCHING = 'FETCHING';
+
+export const FETCH_ACCOUNT = 'FETCH_ACCOUNT';
+export const EDIT_ACCOUNT = 'EDIT_ACCOUNT';
+
+export const FETCH_LOCATIONS = 'FETCH_LOCATIONS';
+export const ADD_LOCATION = 'ADD_LOCATION';
+export const EDIT_LOCATION = 'EDIT_LOCATION';
+export const REMOVE_LOCATION = 'REMOVE_LOCATION';
+
+export const FETCH_STAMPS = 'FETCH_STAMPS';
+export const ADD_STAMP = 'ADD_STAMP';
+export const EDIT_STAMP = 'EDIT_STAMP';
+export const REMOVE_STAMP = 'REMOVE_STAMP';
+
+export const DOWNLOAD_STAMP_PDF = 'DOWNLOAD_STAMP_PDF';
+
+export const FETCH_EVENTS = 'FETCH_EVENTS';
+
+export const FETCH_CUSTOMER = 'FETCH_CUSTOMER';
+export const FETCH_CUSTOMERS = 'FETCH_CUSTOMERS';
